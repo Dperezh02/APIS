@@ -1,5 +1,5 @@
 # ¿Que es una API?
-![I1]()
+![I1](https://github.com/Dperezh02/APIS/blob/master/Imagenes%20de%20referencia/Que%20es%20una%20API.jpg)
 
 API son las inicialies de **A**pplication **P**rogramming **I**nterface (interfaz de programación de aplicaciones).
 Una API es una interface que nos permite dar una o varias instrucciones, ya sea a una aplicación, lenguaje, plataforma, etc.
@@ -116,8 +116,8 @@ La instalación de Postman tiende a ser mucho más sencilla que la de una aplica
 
 - Descargar Postman
 - Abrir el archivo que se descargó, una vez abrá aparecerá una ventana así:
-![I1]()
+![I1](https://github.com/Dperezh02/APIS/blob/master/Imagenes%20de%20referencia/loading.png)
 - Una vez instalado te pedirá que inicies sesión o si es el caso que crees una nueva cuenta.
-![I1]()
+![I1](https://github.com/Dperezh02/APIS/blob/master/Imagenes%20de%20referencia/login%20postman.png)
 - Y ya está postman listo para usarse.
-![I1]()
+![I1](https://github.com/Dperezh02/APIS/blob/master/Imagenes%20de%20referencia/Interface%20postman.png)

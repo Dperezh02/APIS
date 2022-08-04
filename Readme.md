@@ -7,7 +7,19 @@ Una API es una interface que nos permite dar una o varias instrucciones, ya sea 
 Ejemplo:
 - Para prender un televisor la **interfaz** seria el botón del control (Encender/apagar) que le da instrucción de encender el televisor y el televisor sera ese **sofware** que ejecutara otras instrucciones que desconocemos pero que haran que podamos ver contenido en la pantalla
 
+## APIs / REST / RESTful APIs
+Es muy umportante tener en cuenta que hablar de **APIs**, **REST** y **REST *ful* APIs** es total mente diferente 
+
+- **APIs:** Es una abstracción de funciones y procedimientos.
+- **REST:** Es una logica de restricciones y recomendaciones bajo la cual se puede construir un API (Puede decirse que es un modelo de arquitectura), REST no es un framework, ni es un protocolo, ni esta atado a un lenguaje de programación, REST es una logica de restricciones y recomendaciones bajo la cual se puede construir un API.
+- **REST *ful* APIs:** Y finalmente REST *ful* APIs es una API ya implementada que esta construida utilizando la logica de REST. 
+
+### Especificaciones de REST:
+Cada procedimiento de nuestra api esta formada por un **Verbo HTTP** (Post, get, delete), una dirección **URI** unica y la información **(Datos)** necesaria que requiere el servidor para cumplir con el requerimiento 
+
+
 ## El protocolo HTTP, como se usa para la consulta de APIS, verbos y status
+"Protocolo de comunicación entre aplicaciones, basada en el intercambio de texto"
 Un protocolo especifica reglas en la comunicacion entre dos entes, en este caso entre dos computudoras.
 
 **HTTP** (Hyper Text Transfer Protocol) fue creado especificamente para la web.
